@@ -28,9 +28,9 @@ console.log("While Loop Use:")
 let x=1;
 
 while(x<=10){
-    console.log(Namta1 + " X " + x + " = " + (Namta1 * x) + "|" + 
-    Namta2 + " X " + x + " = " + (Namta2 * x) + "|" + 
-    Namta3 + " X " + x + " = " + (Namta3 * x) );
+    console.log(Namta4 + " X " + x + " = " + (Namta4 * x) + "|" + 
+    Namta5 + " X " + x + " = " + (Namta5 * x) + "|" + 
+    Namta6 + " X " + x + " = " + (Namta6 * x) );
     x++;
 }
 
